@@ -14,7 +14,7 @@ I am a **Full-Stack Developer** and the **Founder of Portawebia Oy**, based in T
 
 | Category              | Tools & Languages |
 |-----------------------|-------------------|
-| **Frontend**          | HTML5, CSS3, Sass, JavaScript, React, Angular, Tailwind, Figma |
+| **Frontend**          | HTML5, CSS3, Sass, JavaScript, TypeScript, React, Angular, Tailwind, Figma |
 | **Backend**           | Python, PHP, Node.js, C#, Visual Basic |
 | **Database**          | SQL, NoSQL (MongoDB, Firebase) |
 | **Cloud & DevOps**    | AWS, Azure, Docker, Linux, cPanel |
@@ -23,7 +23,7 @@ I am a **Full-Stack Developer** and the **Founder of Portawebia Oy**, based in T
 
 <p align="left">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,react,angular,html,css,sass,tailwind,py,php,nodejs,cs,visualstudio,mysql,mongodb,firebase,wordpress,aws,azure,docker,git,unity,figma&perline=10" />
+<img src="https://skillicons.dev/icons?i=js,typescript,react,angular,html,css,sass,tailwind,py,php,nodejs,cs,visualstudio,mysql,mongodb,firebase,wordpress,aws,azure,docker,git,unity,figma&perline=10" />
 </a>
 </p>
 
