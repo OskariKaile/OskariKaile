@@ -4,7 +4,7 @@ I am a **Full-Stack Developer** and **Co-founder of Portawebia Oy**, based in Ta
 
 ### 🚀 Quick Bio
 - 🏢 **Co-founder & Developer** at [Portawebia Oy](https://portawebia.com), focusing on business automation and web presence.
-- 🔧 **Co-owner** of [ScanSal Oy](https://www.scansal.fi/), where I run everything IT, from the website to the tools behind it.
+- 🔧 **Co-founder** of [ScanSal Oy](https://www.scansal.fi/), where I run everything IT, from the website to the tools behind it.
 - 🤖 Building **AI-powered systems** in production: LLM APIs, AI agents, prompt engineering and automated pipelines.
 - 🎓 Software Development degree from **Tredu (2024)**.
 - 🌍 Passionate about **Full-Stack Development**, **AI & Automation**, **Cybersecurity**, **Space Tech**, and **Game Development**.
