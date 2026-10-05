@@ -37,7 +37,7 @@ I am a **Full-Stack Developer** and **Co-founder of Portawebia Oy**, based in Ta
 **AI Projects**
 
 - **[AI Outbound Pipeline](https://oskarikaile.github.io/#ai-outbound-pipeline)** *(in production at Portawebia)*: Automated lead-to-demo system. Finds small businesses with outdated websites, verifies their emails, generates a personalised, fact-checked demo site from their own content, and emails them the link with view tracking. About $0.015 AI cost per demo, in 4 languages (Python, DeepSeek API, Playwright, Cloudflare Workers & D1).
-- **Orion** *(work in progress)*: Local AI voice assistant. Wake-word activated; it controls apps, reads email, checks the calendar, identifies songs and runs tools by voice, with a live HUD, system tray and a full web hub for telemetry, agenda, skills and settings.
+- **[Orion](https://oskarikaile.github.io/#orion-demo)** *(work in progress)*: Local AI voice assistant. Wake-word activated; it controls apps, reads email, checks the calendar, identifies songs and runs tools by voice, with a live HUD, system tray and a full web hub for telemetry, agenda, skills and settings.
 
 **Personal Projects**
 
